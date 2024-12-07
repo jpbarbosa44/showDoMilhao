@@ -1,0 +1,10 @@
+"Qual é o menor país do mundo em território?"|"Mônaco"|"San Marino"|"Vaticano"|"Liechtenstein"|c
+"Qual é a fórmula química da água?"|"CO2"|"H2O"|"NaCl"|"CH4"|b
+"Quem foi o primeiro presidente do Brasil?"|"Getúlio Vargas"|"Deodoro da Fonseca"|"Juscelino Kubitschek"|"Dom Pedro II"|b
+"Qual é a capital do estado de Alagoas?"|"Aracaju"|"Recife"|"Natal"|"Maceió"|d
+"Quem pintou o teto da Capela Sistina?"|"Leonardo da Vinci"|"Michelangelo"|"Rafael"|"Donatello"|b
+"Qual é o maior planeta do Sistema Solar?"|"Marte"|"Saturno"|"Júpiter"|"Terra"|c
+"O que mede a escala Richter?"|"Velocidade do som"|"Intensidade dos terremotos"|"Temperatura da água"|"Profundidade do oceano"|b
+"Qual é o idioma oficial na Argentina?"|"Inglês"|"Português"|"Espanhol"|"Italiano"|c
+"Quantos lados tem um hexágono?"|"5"|"6"|"7"|"8"|b
+"Quem é o autor de 'Dom Quixote'?"|"William Shakespeare"|"Miguel de Cervantes"|"Machado de Assis"|"Gabriel García Márquez"|b
